@@ -40,3 +40,5 @@ Hola, soy Jose, un apasionado programador full stack con experiencia en el desar
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lozada07&layout=donut&theme=dark)](https://github.com/lozada07/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lozada07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
