@@ -7,8 +7,6 @@
 
 Hola, soy Jose, un apasionado programador full stack con experiencia en el desarrollo de soluciones innovadoras y escalables. Mi trayectoria abarca desde la creación de interfaces de usuario intuitivas y eficientes hasta la implementación de robustos sistemas back-end.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 =======
 # Skills 
 
@@ -33,7 +31,7 @@ Hola, soy Jose, un apasionado programador full stack con experiencia en el desar
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-##ESTADISTICAS DEL REPOSITORIO
+## ESTADISTICAS DEL REPOSITORIO
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lozada07&show_icons=true&theme=radical)
 
