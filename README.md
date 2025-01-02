@@ -31,9 +31,9 @@ Hola, soy Jose, un apasionado programador full stack con experiencia en el desar
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## ESTADISTICAS DEL REPOSITORIO
+## Repository statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lozada07&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lozada07&show_icons=true&theme=onedark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lozada07&layout=donut&theme=dark)](https://github.com/lozada07/github-readme-stats)
