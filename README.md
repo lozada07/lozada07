@@ -6,6 +6,7 @@
 
 
 Hola, soy Jose, un apasionado programador full stack con experiencia en el desarrollo de soluciones innovadoras y escalables. Mi trayectoria abarca desde la creación de interfaces de usuario intuitivas y eficientes hasta la implementación de robustos sistemas back-end.
+![](https://komarev.com/ghpvc/?username=lozada07&color=brightgreen)
 
 
 # Skills 
